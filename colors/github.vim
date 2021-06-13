@@ -7,7 +7,7 @@ if exists('syntax_on')
 endif
 let g:colors_name='github'
 
-hi Normal guifg=#d1d5da ctermfg=188 guibg=#1e2428 ctermbg=235 gui=NONE cterm=NONE
+hi Normal guifg=#d1d5da ctermfg=188 guibg=#1b1c22 ctermbg=234 gui=NONE cterm=NONE
 hi Comment guifg=#959da5 ctermfg=247 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#79b8ff ctermfg=111 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#9ecbff ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -251,16 +251,16 @@ hi NvimTreeFolderIcon guifg=#569cd6 ctermfg=74 guibg=NONE ctermbg=NONE gui=NONE 
 hi NvimTreeRootFolder guifg=#d1d5da ctermfg=188 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi NvimTreeExecFile guifg=#23d18b ctermfg=42 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi NvimTreeSpecialFile guifg=#ffcc66 ctermfg=221 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi BufferCurrent guifg=#d1d5da ctermfg=188 guibg=#1e2428 ctermbg=235 gui=NONE cterm=NONE
-hi BufferCurrentIndex guifg=#569cd6 ctermfg=74 guibg=#1e2428 ctermbg=235 gui=NONE cterm=NONE
-hi BufferCurrentMod guifg=#d1d5da ctermfg=188 guibg=#1e2428 ctermbg=235 gui=NONE cterm=NONE
-hi BufferCurrentSign guifg=#569cd6 ctermfg=74 guibg=#1e2428 ctermbg=235 gui=NONE cterm=NONE
-hi BufferCurrentTarget guifg=#d16969 ctermfg=167 guibg=#1e2428 ctermbg=235 gui=bold cterm=bold
-hi BufferVisible guifg=#d1d5da ctermfg=188 guibg=#1e2428 ctermbg=235 gui=NONE cterm=NONE
-hi BufferVisibleIndex guifg=#d1d5da ctermfg=188 guibg=#1e2428 ctermbg=235 gui=NONE cterm=NONE
-hi BufferVisibleMod guifg=#d1d5da ctermfg=188 guibg=#1e2428 ctermbg=235 gui=NONE cterm=NONE
-hi BufferVisibleSign guifg=#d1d5da ctermfg=188 guibg=#1e2428 ctermbg=235 gui=NONE cterm=NONE
-hi BufferVisibleTarget guifg=#d16969 ctermfg=167 guibg=#1e2428 ctermbg=235 gui=bold cterm=bold
+hi BufferCurrent guifg=#d1d5da ctermfg=188 guibg=#1b1c22 ctermbg=234 gui=NONE cterm=NONE
+hi BufferCurrentIndex guifg=#569cd6 ctermfg=74 guibg=#1b1c22 ctermbg=234 gui=NONE cterm=NONE
+hi BufferCurrentMod guifg=#d1d5da ctermfg=188 guibg=#1b1c22 ctermbg=234 gui=NONE cterm=NONE
+hi BufferCurrentSign guifg=#569cd6 ctermfg=74 guibg=#1b1c22 ctermbg=234 gui=NONE cterm=NONE
+hi BufferCurrentTarget guifg=#d16969 ctermfg=167 guibg=#1b1c22 ctermbg=234 gui=bold cterm=bold
+hi BufferVisible guifg=#d1d5da ctermfg=188 guibg=#1b1c22 ctermbg=234 gui=NONE cterm=NONE
+hi BufferVisibleIndex guifg=#d1d5da ctermfg=188 guibg=#1b1c22 ctermbg=234 gui=NONE cterm=NONE
+hi BufferVisibleMod guifg=#d1d5da ctermfg=188 guibg=#1b1c22 ctermbg=234 gui=NONE cterm=NONE
+hi BufferVisibleSign guifg=#d1d5da ctermfg=188 guibg=#1b1c22 ctermbg=234 gui=NONE cterm=NONE
+hi BufferVisibleTarget guifg=#d16969 ctermfg=167 guibg=#1b1c22 ctermbg=234 gui=bold cterm=bold
 hi BufferInactive guifg=#858585 ctermfg=102 guibg=#2e2e2e ctermbg=236 gui=NONE cterm=NONE
 hi BufferInactiveIndex guifg=#858585 ctermfg=102 guibg=#2e2e2e ctermbg=236 gui=NONE cterm=NONE
 hi BufferInactiveMod guifg=#858585 ctermfg=102 guibg=#2e2e2e ctermbg=236 gui=NONE cterm=NONE
