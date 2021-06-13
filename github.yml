@@ -67,7 +67,7 @@ palette:
   sign_column: "#262B30"
   vert_split: "#2F363D"
   indent_line: "#2F363D"
-  caret_row: "#262B30"
+  caret_row: "#202129"
   html_tag: "#67F07B"
 
 highlights:
