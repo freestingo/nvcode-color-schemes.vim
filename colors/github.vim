@@ -34,7 +34,7 @@ hi Type guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi StorageClass guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Structure guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Typedef guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi Special guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=italic cterm=italic
+hi Special guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SpecialComment guifg=#959da5 ctermfg=247 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Error guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=bold,reverse cterm=bold,reverse
 hi Todo guifg=#79b8ff ctermfg=111 guibg=NONE ctermbg=NONE gui=bold,italic cterm=bold,italic

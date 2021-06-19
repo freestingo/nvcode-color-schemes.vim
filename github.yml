@@ -99,7 +99,7 @@ highlights:
   StorageClass: "class"
   Structure: "class"
   Typedef: "class"
-  Special: "attribute - i"
+  Special: "attribute"
   SpecialComment: "comment"
   Error: "keyword - br"
   Todo: "todo - bi"
