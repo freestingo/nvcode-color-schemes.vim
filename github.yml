@@ -69,6 +69,7 @@ palette:
   indent_line: "#2F363D"
   caret_row: "#202129"
   html_tag: "#67F07B"
+  special_text: "#A9BAD1"
 
 highlights:
   Normal: "fg bg"
@@ -271,6 +272,11 @@ highlights:
   markdownUrl: "cyan - u"
   # -- END Languages --
 
+  # YESOD (quasiquotes, hamlet, etc) stuff
+  quasiQuote: "operator"
+  hmBlock: "special_text"
+  hmVar: "text"
+  hmKey: "html_tag"
 
   # -- START CoC --
   CocExplorerIndentLine: "line_grey"
