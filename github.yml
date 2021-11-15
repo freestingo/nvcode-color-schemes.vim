@@ -202,11 +202,11 @@ highlights:
   TSVariable: "variable"
   TSVariableBuiltin: "keyword"
   # Text
-  TSText: "#FFFF00"
+  TSText: "text"
   TSStrong: "#FFFF00"
   TSEmphasis: "#FFFF00"
   TSUnderline: "#FFFF00"
-  TSTitle: "#FFFF00"
+  TSTitle: "text"
   TSLiteral: "text"
   TSURI: "- - u"
   # Tags
