@@ -227,6 +227,10 @@ highlights:
   typescriptTSTypeBuiltin: "constant"
   typescriptTSVariableBuiltin: "constant"
 
+  # Scala
+  scalaKeyword: "operator"
+  scalaAnnotation: "attribute"
+
   # HTML (keep consistent with Markdown, below)
   htmlArg: "dark_yellow"
   htmlBold: "dark_yellow - b"
