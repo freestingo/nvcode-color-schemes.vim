@@ -100,10 +100,10 @@ hi TSBoolean guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NO
 hi TSFloat guifg=#79b8ff ctermfg=111 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSAnnotation guifg=#e8848f ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSAttribute guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSNamespace guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSNamespace guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSFuncBuiltin guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSFunction guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSFuncMacro guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSFuncMacro guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameter guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSParameterReference guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSMethod guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -114,7 +114,7 @@ hi TSConditional guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cter
 hi TSRepeat guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSLabel guifg=#9ecbff ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
-hi TSKeywordFunction guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi TSKeywordFunction guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSKeywordOperator guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSOperator guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi TSException guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -143,6 +143,8 @@ hi typescriptTSTypeBuiltin guifg=#79b8ff ctermfg=111 guibg=NONE ctermbg=NONE gui
 hi typescriptTSVariableBuiltin guifg=#79b8ff ctermfg=111 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi scalaKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi scalaAnnotation guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rustKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi rustMacro guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlArg guifg=#d7ba7d ctermfg=180 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi htmlBold guifg=#d7ba7d ctermfg=180 guibg=NONE ctermbg=NONE gui=bold cterm=bold
 hi htmlEndTag guifg=#abb2bf ctermfg=249 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE

@@ -57,6 +57,7 @@ palette:
   annotation: "#E8848F"
   attribute: "#FFAB70"
   parameter: "#FFAB70"
+  macro: "#FFAB70"
   function: "#B392F0"
   class: "#B392F0"
   cursor_fg: "#515052"
@@ -173,11 +174,11 @@ highlights:
   TSFloat: "number"
   TSAnnotation: "annotation"
   TSAttribute: "attribute"
-  TSNamespace: "keyword"
+  TSNamespace: "class"
   # Functions
   TSFuncBuiltin: "function"
   TSFunction: "function"
-  TSFuncMacro: "function"
+  TSFuncMacro: "macro"
   TSParameter: "parameter"
   TSParameterReference: "parameter"
   TSMethod: "function"
@@ -190,7 +191,7 @@ highlights:
   TSLabel: "string"
   # Does not work for yield and return they should be diff then class and def
   TSKeyword: "keyword"
-  TSKeywordFunction: "function"
+  TSKeywordFunction: "keyword"
   TSKeywordOperator: "operator"
   TSOperator: "operator"
   TSException: "keyword"
@@ -230,6 +231,10 @@ highlights:
   # Scala
   scalaKeyword: "operator"
   scalaAnnotation: "attribute"
+
+  # Rust (work in progress)
+  rustKeyword: "operator"
+  rustMacro: "macro"
 
   # HTML (keep consistent with Markdown, below)
   htmlArg: "dark_yellow"
