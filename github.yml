@@ -228,6 +228,13 @@ highlights:
   typescriptTSTypeBuiltin: "constant"
   typescriptTSVariableBuiltin: "constant"
 
+  # Haskell
+  haskellDerive: "keyword"
+  haskellDeriveKeyword: "keyword"
+  haskellDeclKeyword: "keyword"
+  haskellDecl: "keyword"
+  haskellBacktick: "annotation"
+
   # Scala
   scalaKeyword: "operator"
   scalaAnnotation: "attribute"

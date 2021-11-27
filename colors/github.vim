@@ -141,6 +141,11 @@ hi typescriptTSConstructor guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui
 hi typescriptTSType guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi typescriptTSTypeBuiltin guifg=#79b8ff ctermfg=111 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi typescriptTSVariableBuiltin guifg=#79b8ff ctermfg=111 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi haskellDerive guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi haskellDeriveKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi haskellDeclKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi haskellDecl guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi haskellBacktick guifg=#e8848f ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi scalaKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi scalaAnnotation guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi rustKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
