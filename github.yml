@@ -69,6 +69,7 @@ palette:
   vert_split: "#2F363D"
   indent_line: "#2F363D"
   caret_row: "#202129"
+  scrollbar: "#262B30"
   html_tag: "#67F07B"
   special_text: "#A9BAD1"
 
@@ -112,7 +113,7 @@ highlights:
   CursorLineNr: "cursor_line_nr"
   SignColumn: "- sign_column"
   Conceal: "line_grey"
-  CursorColumn: "- caret_row"
+  CursorColumn: "- scrollbar"
   CursorLine: "- caret_row"
   Directory: "string"
   DiffAdd: "fg green"
@@ -152,7 +153,6 @@ highlights:
   WarningMsg: "yellow"
   WildMenu: "black blue"
   EndOfBuffer: "black"
-
 
   # -- Start Treesitter --
   # Misc
@@ -371,7 +371,6 @@ highlights:
   LspDiagnosticsVirtualTextInformation: "info_yellow"
   LspDiagnosticsVirtualTextHint: "vivid_blue"
 
-
   QuickScopePrimary: "#00C7DF - u"
   QuickScopeSecondary: "#eF5F70 - u"
 
@@ -417,7 +416,6 @@ highlights:
 
   CodiVirtualText: "#6395EC"
   IndentBlanklineContextChar: "indentlinehighlight"
-
 
   # terminal: "bg red green yellow blue magenta cyan silver gray red green yellow blue magenta cyan fg"
   # -- Other junk you can define --
