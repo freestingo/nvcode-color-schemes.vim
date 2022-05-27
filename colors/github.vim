@@ -8,6 +8,18 @@ endif
 let g:colors_name='github'
 
 hi Normal guifg=#d1d5da ctermfg=188 guibg=#1b1c22 ctermbg=234 gui=NONE cterm=NONE
+hi CmpItemAbbrMatch guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemAbbrMatchFuzzy guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemKindFunction guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemKindMethod guifg=#b392f0 ctermfg=141 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemKindVariable guifg=#79b8ff ctermfg=111 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemKindConstant guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemKindKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemKindClass guifg=#67f07b ctermfg=84 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemKindModule guifg=#67f07b ctermfg=84 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemKindProperty guifg=#d1d5da ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemKindText guifg=#d1d5da ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi CmpItemKindSnippet guifg=#d1d5da ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi Comment guifg=#959da5 ctermfg=247 guibg=NONE ctermbg=NONE gui=italic cterm=italic
 hi Constant guifg=#79b8ff ctermfg=111 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi String guifg=#9ecbff ctermfg=153 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
@@ -40,6 +52,8 @@ hi Error guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=bold,reverse cter
 hi Todo guifg=#79b8ff ctermfg=111 guibg=NONE ctermbg=NONE gui=bold,italic cterm=bold,italic
 hi Underlined guifg=#79b8ff ctermfg=111 gui=underline cterm=underline
 hi Cursor guifg=#515052 ctermfg=239 guibg=#aeafad ctermbg=145 gui=NONE cterm=NONE
+hi GitConflictIncomingDiff guifg=#d1d5da ctermfg=188 guibg=#212a2e ctermbg=235 gui=NONE cterm=NONE
+hi GitConflictCurrentDiff guifg=#d1d5da ctermfg=188 guibg=#262b30 ctermbg=236 gui=NONE cterm=NONE
 hi ColorColumn guifg=NONE ctermfg=NONE guibg=#262b30 ctermbg=236 gui=NONE cterm=NONE
 hi CursorLineNr guifg=#e1e4e8 ctermfg=254 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi SignColumn guifg=NONE ctermfg=NONE guibg=#262b30 ctermbg=236 gui=NONE cterm=NONE
