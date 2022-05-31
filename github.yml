@@ -32,6 +32,7 @@ palette:
   vertsplit: "#3E4452"
   warning_orange: "#ff8800"
   info_yellow: "#FFCC66"
+  bracket_yellow: "#FAC04B"
   search_blue: "#1da1f2"
   git_green: "#81B88B"
   symlink: "#29B8D8"
@@ -253,6 +254,9 @@ highlights:
   haskellDeclKeyword: "keyword"
   haskellDecl: "keyword"
   haskellBacktick: "annotation"
+  haskellTSVariable: "text"
+  haskellTSFunction: "text"
+  haskellTSPunctBracket: "bracket_yellow"
 
   # Scala
   scalaKeyword: "operator"

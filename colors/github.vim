@@ -161,6 +161,9 @@ hi haskellDeriveKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NO
 hi haskellDeclKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi haskellDecl guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi haskellBacktick guifg=#e8848f ctermfg=174 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi haskellTSVariable guifg=#d1d5da ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi haskellTSFunction guifg=#d1d5da ctermfg=188 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
+hi haskellTSPunctBracket guifg=#fac04b ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi scalaKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi scalaAnnotation guifg=#ffab70 ctermfg=215 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
 hi rustKeyword guifg=#f97583 ctermfg=210 guibg=NONE ctermbg=NONE gui=NONE cterm=NONE
